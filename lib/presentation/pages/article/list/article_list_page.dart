@@ -10,9 +10,6 @@ import 'package:news_app/presentation/widget/custom_material.dart';
 import 'package:news_app/presentation/widget/responsive_layout.dart';
 import 'package:news_app/presentation/widget/result_view.dart';
 import 'package:news_app/presentation/widget/staggered_animation_separated_list_view.dart';
-import 'package:path/path.dart';
-
-import '../../../utils/app_colors.dart';
 
 class ArticleListPage extends ResultView<ArticleListViewModel,List<Article>>{
 
